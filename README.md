@@ -42,7 +42,7 @@
 ## ❗  - Installation:
 #### 1st・Installation (Source Code)
 ```
-git clone https://github.com/TT-Tutorials/GANG-Nuker
+git clone https://github.com/1xMartin/GANG-DISCORD_CONTROLLED.git
 pip install pyinstaller
 start.bat
 ```
