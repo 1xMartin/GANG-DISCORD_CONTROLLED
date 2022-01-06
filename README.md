@@ -1,4 +1,4 @@
-## GANG Multi Tool Menu: 
+## GANG DISCORD CONTROLLED Menu: 
 
 
 
@@ -73,5 +73,5 @@ The .exe will be created in "dist" (Send that to your target)
 ![image](https://user-images.githubusercontent.com/94531396/144050106-b6a53ff9-38db-4925-a302-c16fe442fd6a.png)
 
 
-- Make sure to join my [discord](https://discord.gg/th1) and fill free to dm me @! ・Martin#9693. Thanks for using GANG Multi Tool!
+- Make sure to join my [discord](https://discord.gg/th1) and fill free to dm me @! ・Martin#9693. Thanks for using GANG DISCORD CONTROLLED!
 - Coded / Developed by ! ・Martin#9693
